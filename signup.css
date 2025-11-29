@@ -1,0 +1,103 @@
+/*  IDs */
+
+#firstName , #lastName {
+   margin: 0 0 0 10px;
+   padding: 10px 0 10px 10px;
+   border: 1px solid grey;
+   border-radius: 5px;
+   width: 40%;
+}
+
+#month {
+   width: 30%;
+   padding: 7px 0 7px 7px;
+   border-radius: 5px;
+   background: white;
+}
+
+#day {
+   width: 30%;
+   margin-left: 10px;
+   padding: 7px 0 7px 7px;
+   border-radius: 5px;
+   background: white;
+}
+
+#year {
+   width: 30%;
+   margin-left: 10px;
+   padding: 7px 0 7px 7px;
+   border-radius: 5px;
+   background: white;
+}
+
+#gender {
+   width: 100%;
+   padding: 7px 0 7px 7px;
+   border-radius: 5px;
+   background: white;
+}
+
+#email {
+   width: 97%;
+   margin-top: 1em;
+   padding: 10px 0 10px 10px;
+   border: 1px solid grey;
+   border-radius: 5px;
+}
+
+#password1 {
+   width: 97%;
+   margin-top: 1em;
+   padding: 10px 0 10px 10px;
+   border: 1px solid grey;
+   border-radius: 5px;
+}
+
+#password2 {
+   width: 97%;
+   margin-top: 1em;
+   padding: 10px 0 10px 10px;
+   border: 1px solid grey;
+   border-radius: 5px;
+}
+/*  Classes */
+
+.learn-more , .terms , .privacy-policy , .cookies-policy{
+   text-decoration: none;
+}
+
+.account {
+   text-decoration: none;
+   margin-left: 5em;
+   color: blue;
+}
+
+.sign-up {
+   font-size: 1.5em;
+   font-weight: bold;
+   background: green;
+   color: white;
+   width: 10em;
+   margin-top: 1em;
+   margin-left: 2em;
+   margin-bottom: 1.5em;
+   padding: 10px 0;
+   border: none;
+   border-radius: 1em;
+}
+
+.first-paragraph , .second-paragraph , .third-paragraph {
+   opacity: 0.5;
+}
+
+.birthday , .gender {
+   opacity: 0.6;
+}
+
+
+/*  Generics */
+
+h1 {
+   color: blue;
+}

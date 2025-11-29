@@ -1,0 +1,48 @@
+* {
+   width: ;
+}
+
+/*  IDs */
+
+#facebook {
+   color: blue;
+}
+
+#email , #password{
+   padding: 6px 10px 10px 10px;
+   border: 1px solid grey;
+   border-radius: 5px;
+}
+
+/*  Classes */
+
+.login-btn {
+   margin-bottom: 3em;
+   width: 60%;
+   padding: 8px 10px;
+   border-radius: 5px;
+   border: none;
+   background: blue;
+   color: white;
+}
+
+.create-account {
+   margin: 3em 0;
+   width: 60%;
+   padding: 8px 10px;
+   border-radius: 5px;
+   border: none;
+   background: green;
+   color: #ffffff;
+}
+
+/*  Generics */
+
+input {
+   display: block;
+   margin: 2em 0 0 0;
+}
+
+a {
+   text-decoration: none;
+}
